@@ -56,31 +56,32 @@
 ## AI / ML
 
 ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![DL (Segmentation, Classification)](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
+![DL](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-00C853?style=for-the-badge)
-![Knowledge Graphs](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-5C3EE8?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
 ## Full Stack Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## Cloud & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -172,7 +173,7 @@ Research project exploring multi-modal medical AI.
 |------------|----------|
 | 🥇 Google Girl Hackathon 2024 | Top 1.2% among 34,000+ participants |
 | 🥇 Google Girl Hackathon 2025 | Top 1.2% among participants |
-| 💼 J.P. Morgan Chase Internship | Corporate Analyst Intern |
+| 💼 J.P. Morgan Chase Internship | Analyst Intern |
 | 💻 LeetCode | 300+ Problems Solved |
 | 🎖️ Academic Excellence | 97.2% in CBSE Class XII |
 
