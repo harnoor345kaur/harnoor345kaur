@@ -183,9 +183,7 @@ Research project exploring multi-modal medical AI.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harnoor345kaur&show_icons=true&theme=tokyonight"/>
 
 </div>
 
@@ -195,7 +193,7 @@ Research project exploring multi-modal medical AI.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harnoor345kaur&theme=tokyonight" />
 
 </div>
 
@@ -205,7 +203,7 @@ Research project exploring multi-modal medical AI.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harnoor345kaur&theme=tokyo-night"/>
 
 </div>
 
