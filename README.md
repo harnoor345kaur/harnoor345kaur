@@ -36,10 +36,6 @@
 
 🤖 Passionate about AI, LLMs, RAG Systems, NLP and Full-Stack Development
 
-🏆 Google Girl Hackathon 2024 & 2025 Semifinalist (Top 1.2%)
-
-📚 Solved 300+ DSA Problems
-
 ---
 
 # 🛠️ Tech Stack
@@ -164,18 +160,6 @@ Research project exploring multi-modal medical AI.
 
 </tr>
 </table>
-
----
-
-# 🏆 Achievements
-
-| Achievement | Details |
-|------------|----------|
-| 🥇 Google Girl Hackathon 2024 | Top 1.2% among 34,000+ participants |
-| 🥇 Google Girl Hackathon 2025 | Top 1.2% among participants |
-| 💼 J.P. Morgan Chase Internship | Analyst Intern |
-| 💻 LeetCode | 300+ Problems Solved |
-| 🎖️ Academic Excellence | 97.2% in CBSE Class XII |
 
 ---
 
