@@ -163,16 +163,6 @@ Research project exploring multi-modal medical AI.
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harnoor345kaur&show_icons=true&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
